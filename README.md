@@ -2,7 +2,7 @@
 
 A self-hosted startpage with a customizable dashboard of apps, bookmarks, and widgets — deployed on Railway.
 
-[![Deploy to Railway](https://railway.app/button.svg)](https://railway.com/deploy/flame)
+[![Deploy to Railway](https://railway.app/button.svg)](https://railway.com/deploy/GC8GXi)
 
 ## Why Deploy
 
